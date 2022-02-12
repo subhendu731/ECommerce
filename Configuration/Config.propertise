@@ -1,3 +1,7 @@
 browser=Chrome
 URL=http://automationpractice.com/index.php
 expectedTitle=My Store
+emailAddress=admin@xyz.com
+password=admin@123
+expectedWelcomeText=Welcome to your account. Here you can manage all of your personal information and orders.
+expectedUserName=admin xyz

@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-08T00:28:58 IST" name="Default suite" finished-at="2022-01-08T00:29:17 IST" duration-ms="19126">
+  <suite started-at="2022-02-12T22:51:08 IST" name="Default suite" finished-at="2022-02-12T22:51:31 IST" duration-ms="22850">
     <groups>
     </groups>
-    <test started-at="2022-01-08T00:28:58 IST" name="Default test" finished-at="2022-01-08T00:29:17 IST" duration-ms="19126">
-      <class name="testCases.IndexPageTest">
-        <test-method is-config="true" signature="loadConfig()[pri:0, instance:testCases.IndexPageTest@505fc5a4]" started-at="2022-01-08T00:28:58 IST" name="loadConfig" finished-at="2022-01-08T00:28:58 IST" duration-ms="22" status="PASS">
+    <test started-at="2022-02-12T22:51:08 IST" name="Default test" finished-at="2022-02-12T22:51:31 IST" duration-ms="22850">
+      <class name="testCases.MyAccountTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:testCases.MyAccountTest@156b88f5]" started-at="2022-02-12T22:51:08 IST" name="loadConfig" finished-at="2022-02-12T22:51:08 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadConfig -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.IndexPageTest@505fc5a4]" started-at="2022-01-08T00:28:58 IST" name="setUp" finished-at="2022-01-08T00:29:14 IST" duration-ms="15727" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.MyAccountTest@156b88f5]" started-at="2022-02-12T22:51:08 IST" name="setUp" finished-at="2022-02-12T22:51:20 IST" duration-ms="12585" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="launchSigninPage()[pri:0, instance:testCases.IndexPageTest@505fc5a4]" started-at="2022-01-08T00:29:14 IST" name="launchSigninPage" finished-at="2022-01-08T00:29:17 IST" duration-ms="2732" status="PASS">
+        <test-method signature="verifyTabs()[pri:0, instance:testCases.MyAccountTest@156b88f5]" started-at="2022-02-12T22:51:20 IST" name="verifyTabs" finished-at="2022-02-12T22:51:30 IST" duration-ms="9719" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchSigninPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.IndexPageTest@505fc5a4]" started-at="2022-01-08T00:29:17 IST" name="tearDown" finished-at="2022-01-08T00:29:17 IST" duration-ms="538" status="PASS">
+        </test-method> <!-- verifyTabs -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.MyAccountTest@156b88f5]" started-at="2022-02-12T22:51:30 IST" name="tearDown" finished-at="2022-02-12T22:51:31 IST" duration-ms="501" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.IndexPageTest -->
+      </class> <!-- testCases.MyAccountTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
